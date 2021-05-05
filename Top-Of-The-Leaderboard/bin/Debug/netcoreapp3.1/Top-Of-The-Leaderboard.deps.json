@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Top-Of-The-Leaderboard/1.0.0": {
+        "runtime": {
+          "Top-Of-The-Leaderboard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Top-Of-The-Leaderboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

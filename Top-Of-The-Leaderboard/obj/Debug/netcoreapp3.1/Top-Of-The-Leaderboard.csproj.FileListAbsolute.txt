@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\bin\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\bin\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\bin\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\bin\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\bin\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\bin\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\obj\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\obj\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\obj\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\obj\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\obj\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\obj\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Top-Of-The-Leaderboard\Top-Of-The-Leaderboard\obj\Debug\netcoreapp3.1\Top-Of-The-Leaderboard.genruntimeconfig.cache
